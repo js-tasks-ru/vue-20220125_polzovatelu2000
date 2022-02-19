@@ -1,4 +1,4 @@
-import { createApp, defineComponent } from './vendor/vue.esm-browser.js';
+import { createApp } from './vendor/vue.esm-browser.js';
 const vm = createApp({
     data() {
       return {
